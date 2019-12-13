@@ -145,14 +145,14 @@ int example_function_1 (char str);
  * 
  * @note As the function is a void type, there is no need to use a return reference
  */
-void init_sdr_repository(int size);
+void example_function_2(int size);
 
 /**
  * @brief Brief description of the function in the group
  * 
  * Detailed description of the function
  */
-void init_sdr_repository(void);
+void example_function_3(void);
 
 ///@}
 
