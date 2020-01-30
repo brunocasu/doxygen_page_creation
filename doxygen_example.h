@@ -106,7 +106,7 @@ typedef struct
     char param_a;
     /** 
      * When compiled, the doxygen configuration file will 
-     * report if the individual param are not documented
+     * report if the individual parameters are not documented
      */
     char param_b;
 } struct_2_t;
@@ -156,5 +156,5 @@ void example_function_3(void);
 
 ///@}
 
-#endif // SDR_MANAGER_H
+#endif // DOXYGEN_TEST_H
 
